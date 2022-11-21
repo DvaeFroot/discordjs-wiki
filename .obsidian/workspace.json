@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "3e267f7cdd7c83cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "40117f6158e10683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb66e29bc4888ff8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a45039fbc89d349",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ddeb68a1f64aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "311b77d2a745321f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "759e46e90f02c15d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3115ac88e4653a06",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e7266c5d67dc838",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc3a15cb5009b8f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b30fd21d2ab4f4ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71d755b8ddb8cdbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "298fb878bad019f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "514ef614115ebdc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eb66e29bc4888ff8",
+  "lastOpenFiles": [
+    "Installing Node.js and discord.js.md",
+    "DiscordJS Directories.md",
+    "Initial Files.md",
+    "Command handling.md",
+    "Adding your bot to servers.md"
+  ]
+}
