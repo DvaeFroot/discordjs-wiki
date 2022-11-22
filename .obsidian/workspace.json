@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscordJS Directories.md",
+                "file": "Event Handling.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DiscordJS Directories.md",
+                "file": "Event Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DiscordJS Directories.md",
+                "file": "Event Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DiscordJS Directories.md"
+                "file": "Event Handling.md"
               }
             }
           }
@@ -133,17 +134,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "eb66e29bc4888ff8",
   "lastOpenFiles": [
-    "Event Handling.md",
-    "Adding your bot to servers.md",
-    "Creating commands.md",
     "DiscordJS Directories.md",
-    "Command handling.md",
     "Initial Files.md",
+    "Creating commands.md",
+    "Event Handling.md",
+    "Command handling.md",
+    "Adding your bot to servers.md",
+    "Setting up a bot application.md",
     "Installing Node.js and discord.js.md"
   ]
 }
