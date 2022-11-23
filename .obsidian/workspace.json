@@ -138,13 +138,13 @@
   },
   "active": "eb66e29bc4888ff8",
   "lastOpenFiles": [
-    "Event Handling.md",
-    "DiscordJS Directories.md",
-    "Initial Files.md",
     "Creating commands.md",
+    "Installing Node.js and discord.js.md",
+    "DiscordJS Directories.md",
+    "Event Handling.md",
+    "Initial Files.md",
     "Command handling.md",
     "Adding your bot to servers.md",
-    "Setting up a bot application.md",
-    "Installing Node.js and discord.js.md"
+    "Setting up a bot application.md"
   ]
 }
