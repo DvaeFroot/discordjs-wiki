@@ -85,7 +85,7 @@ client.login(process.env.TOKEN)
 The environment variable must match the name declared in the 📃`.env` file which in this case is TOKEN
 ```
 ````
-```ad-bug
+```ad-warning
 For upgrading from discord.js v13 to v14, you may refer to [this post](https://stackoverflow.com/questions/73028854/discord-js-v13-code-breaks-when-upgrading-to-v14) from stackoverflow for some possible errors and fixes.
 
 ```
@@ -133,7 +133,7 @@ client.once('ready', ()=>{
 client.login(process.env.TOKEN)
 ~~~
 ```ad-info
-The line of code below is implementing a method known as Object Destructuring. It is a method to quickly access the variables that we need from an object. In this case, our object is what we receive from `require('discord.js'`. 
+The line of code below is implementing a method known as Object Destructuring. It is a method to quickly access the variables that we need from an object. In this case, our object is what we receive from `require('discord.js')`. 
 ~~~js
 const { Client, GatewayIntentBits } = require('discord.js')
 ~~~

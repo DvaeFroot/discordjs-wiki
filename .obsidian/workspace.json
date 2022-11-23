@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installing Node.js and discord.js.md",
+                "file": "Creating commands.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installing Node.js and discord.js.md",
+                "file": "Creating commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installing Node.js and discord.js.md",
+                "file": "Creating commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installing Node.js and discord.js.md"
+                "file": "Creating commands.md"
               }
             }
           }
@@ -140,11 +140,12 @@
   "lastOpenFiles": [
     "DiscordJS Directories.md",
     "Initial Files.md",
-    "Creating commands.md",
-    "Installing Node.js and discord.js.md",
-    "Event Handling.md",
-    "Command handling.md",
+    "Untitled.md",
     "Adding your bot to servers.md",
-    "Setting up a bot application.md"
+    "Setting up a bot application.md",
+    "Installing Node.js and discord.js.md",
+    "Creating commands.md",
+    "Event Handling.md",
+    "Command handling.md"
   ]
 }
